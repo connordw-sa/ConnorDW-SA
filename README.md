@@ -7,7 +7,7 @@ I love coding, and cats.
 
 Skills: REACT / JS / TS / HTML / CSS / JAVA(BASIC)
 
-([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorDW-SA)](https://github.com/anuraghazra/github-readme-stats))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorDW-SA)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
