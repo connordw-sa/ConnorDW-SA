@@ -1,16 +1,14 @@
-### Hi there 👋
+### Connor Wehmeyer
+#### Junior full stack developer
+![Junior full stack developer]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorDW-SA)](https://github.com/anuraghazra/github-readme-stats))
 
-<!--
-**ConnorDW-SA/ConnorDW-SA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Connor. I am a certified FS dev, with a special interest in backend development/engineering. I am currently teaching myself Java!
+I love coding, and cats.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / TS / HTML / CSS / JAVA(BASIC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
