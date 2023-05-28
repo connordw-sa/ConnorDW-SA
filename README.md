@@ -5,7 +5,7 @@
 Hello, my name is Connor. I am a certified FS dev, with a special interest in backend development/engineering. I am currently teaching myself Java!
 I love coding, and cats.
 
-Skills: REACT / JS / TS / HTML / CSS / JAVA(BASIC)
+REACT / JS / TS / HTML / CSS / JAVA(BASIC)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorDW-SA&show_icons=true&theme=radical)
 
