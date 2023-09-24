@@ -2,7 +2,7 @@
 #### Junior full stack developer
 
 
-Hello, my name is Connor. I am a certified FS dev, with a special interest in backend development/engineering. I am currently teaching myself Java!
+Hello, my name is Connor. I am a certified FS dev, with a special interest in backend development/engineering. I am currently teaching myself C#!
 I love coding, and cats.
 
 REACT / JS / TS / HTML / CSS / JAVA(BASIC) 
