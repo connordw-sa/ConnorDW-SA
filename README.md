@@ -1,11 +1,11 @@
 ### Connor Wehmeyer
-#### Junior full stack developer
+#### Full stack developer
 
 
 Hello, my name is Connor. I am a certified FS dev, with a special interest in backend development/engineering. I am currently teaching myself Rust!
 I love coding, and cats.
 
-REACT / JS / TS / HTML / CSS / JAVA(BASIC) 
+HTML / CSS / JS / TS / REACT / NODEJS / RUST 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/ConnorDW-SA/github-readme-stats)
 
